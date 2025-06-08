@@ -390,7 +390,7 @@
       #define D_PULL true
     #endif
 
-    #ifdef MARAUDER_V7
+    #ifdef MARAUDER_V4
       #define L_BTN 13
       #define C_BTN 34
       #define U_BTN 36
